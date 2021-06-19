@@ -1,6 +1,6 @@
 package com.practice.multithreading.bankatmapp;
 
-public class ClientTest {
+public class BankATMTest {
 
 	public static void main(String[] args) {
 		
